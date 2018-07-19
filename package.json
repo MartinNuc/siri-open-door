@@ -1,0 +1,20 @@
+{
+  "name": "homebridge-switch-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Nuc <martin@nuc.cz>",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "homebridge": "*"
+  },
+  "dependencies": {
+    "rpio": "^0.9.20"
+  }
+}
